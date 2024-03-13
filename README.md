@@ -6,7 +6,7 @@
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
-Dataset hails from [dataset](/dataset/) folder. It's packed with insights on job titles, salaries, locations, and essential skills.
+Data hails from the youtuber content creator Luke's Barousse on his [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I wanted to answer through my SQL queries were:
 
@@ -16,7 +16,7 @@ Dataset hails from [dataset](/dataset/) folder. It's packed with insights on job
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
-# Tools Used
+# ⚙️ Tools Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
